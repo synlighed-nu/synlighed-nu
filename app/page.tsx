@@ -37,3 +37,4 @@ export default function SynlighedNu() {
 
         {/* DÉJÀ VU */}
         <div id="deja
+npx create-next-app@latest . --yes

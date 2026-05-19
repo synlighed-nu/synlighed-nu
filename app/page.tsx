@@ -94,7 +94,7 @@ export default function SynlighedNu() {
         <div className="bg-[#002B5B] text-white py-20 text-center">
           <div className="max-w-md mx-auto px-6">
             <div className="text-6xl mb-6">🚀</div>
-            <h3 className="text-5xl font-bold tracking-tighter">Vil du ? være med?</h3>
+            <h3 className="text-5xl font-bold tracking-tighter">Vil du være med?</h3>
             <p className="text-xl mt-4 text-white/80">
               Følg med på X og støt projektet økonomisk – fuld gennemsigtighed.
             </p>
